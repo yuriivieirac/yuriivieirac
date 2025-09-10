@@ -28,7 +28,6 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Yuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriivieirac&show_icons=true&theme=dracula)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriivieirac&layout=compact&theme=dracula)  
 
 ---
