@@ -37,13 +37,8 @@
 
 - [Painel de Ordens SEFAZ GO](https://github.com/yuriivieirac/painel-ordens-sefaz-go)  
   Painel em tempo real das Ordens de Serviço via WhatsApp  
-  **Stack:** Node.js, Electron, JavaScript  
-
-
----
-
-## 📊 Estatísticas do GitHub
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriivieirac&layout=compact&theme=dracula&cache_seconds=1800)
+  **Stack:** Node.js, Electron, JavaScript
+  
 
 ---
 
