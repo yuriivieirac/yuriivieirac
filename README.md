@@ -8,27 +8,42 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
 
 ---
 
 ## 👨‍💻 Sobre Mim
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas | Faculdade Senac Goiás  
-- 🚀 Apaixonado por criar soluções com Java, Spring, PostgreSQL e tecnologias web  
-- ⚙️ Buscando aprimorar minhas habilidades em backend, frontend e banco de dados  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas – Faculdade Senac Goiás  
+- 🎯 Profissional com base sólida em desenvolvimento backend (Java/Spring Boot) em transição para a área de Dados, com foco em SQL, Python e BI para geração de insights e apoio à decisão.  
 
 ---
 
 ## 📌 Projetos em Destaque
 
-- [Projeto CRUD](https://github.com/yuriivieirac/projeto-crud) – Sistema de gerenciamento de Alunos, Disciplinas e Professores (Java)  
-- [iPark System](https://github.com/yuriivieirac/iPark-system) – Sistema de gerenciamento de estacionamento (Java, HTML, CSS, JS)  
-- [Portfólio Yuri Clemente](https://github.com/yuriivieirac/portfolio-yuri-clemente) – Portfólio pessoal com HTML, CSS, JS  
-- [Painel de Ordens SEFAZ GO](https://github.com/yuriivieirac/painel-ordens-sefaz-go) – Painel em tempo real das Ordens de Serviço via WhatsApp (Node.js, Electron, JS)  
+- [Projeto CRUD](https://github.com/yuriivieirac/projeto-crud)  
+  Sistema de gerenciamento de Alunos, Disciplinas e Professores  
+  **Stack:** Java, Spring Boot, PostgreSQL  
+
+- [iPark System](https://github.com/yuriivieirac/iPark-system)  
+  Sistema de gerenciamento de estacionamento  
+  **Stack:** Java, Spring Boot, HTML, CSS, JavaScript, PostgreSQL  
+
+- [Portfólio Yuri Clemente](https://github.com/yuriivieirac/portfolio-yuri-clemente)  
+  Portfólio pessoal  
+  **Stack:** HTML, CSS, JavaScript  
+
+- [Painel de Ordens SEFAZ GO](https://github.com/yuriivieirac/painel-ordens-sefaz-go)  
+  Painel em tempo real das Ordens de Serviço via WhatsApp  
+  **Stack:** Node.js, Electron, JavaScript  
+
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriivieirac&layout=compact&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriivieirac&layout=compact&theme=dracula&cache_seconds=1800)
 
 ---
 
