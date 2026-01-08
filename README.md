@@ -22,21 +22,21 @@
 
 ## 📌 Projetos em Destaque
 
-- [Projeto CRUD](https://github.com/yuriivieirac/projeto-crud)  
-  Sistema de gerenciamento de Alunos, Disciplinas e Professores  
-  **Stack:** Java, Spring Boot, PostgreSQL  
+- [Projeto Folha de Pagamento](https://github.com/yuriivieirac/payroll-system)
+  Sistema de folha de pagamento desenvolvido para gerenciamento de funcionários, cargos e turnos.
+  **Stack:** Java 21, Spring Boot 3, PostgreSQL, Maven e Lombook.  
 
 - [iPark System](https://github.com/yuriivieirac/iPark-system)  
   Sistema de gerenciamento de estacionamento  
-  **Stack:** Java, Spring Boot, HTML, CSS, JavaScript, PostgreSQL  
+  **Stack:** Java, Spring Boot, HTML5, CSS3, JavaScript e PostgreSQL.  
 
 - [Portfólio Yuri Clemente](https://github.com/yuriivieirac/portfolio-yuri-clemente)  
   Portfólio pessoal  
-  **Stack:** HTML, CSS, JavaScript  
+  **Stack:** HTML5, CSS3 e JavaScript.  
 
 - [Painel de Ordens SEFAZ GO](https://github.com/yuriivieirac/painel-ordens-sefaz-go)  
   Painel em tempo real das Ordens de Serviço via WhatsApp  
-  **Stack:** Node.js, Electron, JavaScript
+  **Stack:** Node.js, Electron e JavaScript.
   
 
 ---
