@@ -23,7 +23,7 @@
 ## 📌 Projetos em Destaque
 
 - [Projeto Folha de Pagamento](https://github.com/yuriivieirac/payroll-system)  
-  Sistema de folha de pagamento desenvolvido para gerenciamento de funcionários, cargos e turnos.
+  Sistema de folha de pagamento desenvolvido para gerenciamento de funcionários, cargos e turnos.  
   **Stack:** Java 21, Spring Boot 3, PostgreSQL, Maven e Lombook.  
 
 - [iPark System](https://github.com/yuriivieirac/iPark-system)  
